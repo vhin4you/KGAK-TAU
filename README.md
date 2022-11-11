@@ -1,31 +1,31 @@
 <div align="center">
-<img src="https://i.ibb.co/qCHNd0j/36fa310d84b9844bbea4eaf9d6462eed5d6127c6.jpg" alt="SELF-HX" width="300" />
+<img src="https://i.ibb.co/qCHNd0j/36fa310d84b9844bbea4eaf9d6462eed5d6127c6.jpg" alt="KGAK-TAU" width="300" />
 
-# DAHLAH
+# VHINN
 
 >
 >
 >
 </div>
 <p align="center">
-  <a href="https://github.com/Hexagonz"><img title="Author" src="https://img.shields.io/badge/Author-Hexagonz-red.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/vhin4you"><img title="Author" src="https://img.shields.io/badge/Author-Vhinn-red.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
-  <a href="https://wa.me/6285751056816">KYAAA ONI CHAN >//< </a>
+  <a href="https://wa.me/6289513155643">KYAAA ONI CHAN >//< </a>
 </h4>
 </p>
 
 ## CARA INSTALL DI TERMUX
 ```bash
 > pkg install nodejs && pkg install git
-> git clone https://github.com/Hexagonz/SELF-HX
-> cd SELF-HX
+> git clone https://github.com/vhin4you/KGAK-TAU
+> cd KGAK-TAU
 > bash install.sh
 > npm start/node main.js
 ```
 ## CARA INSTALL DI LAPTOP
 ```bash
-> git clone https://github.com/Hexagonz/SELF-HX 
-> cd SELF-HX
+> git clone https://github.com/Hexagonz/KGAK-TAU 
+> cd KGAK-TAU
 > npm i
 > npm start/node main.js
 ```
