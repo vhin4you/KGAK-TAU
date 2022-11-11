@@ -1,7 +1,7 @@
 {
-  "name": "KIZAKIXD",
+  "name": "VHINNXD",
   "version": "1.0.0",
-  "description": "ZAKBOTZ",
+  "description": "VHINNBOTZ",
   "main": "main.js",
   "directories": {
     "lib": "lib"
@@ -44,15 +44,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Hexagonz"
+    "url": "git+https://github.com/vhin4you"
   },
   "keywords": [
     "Wasu"
   ],
-  "author": "HEXAGON",
+  "author": "VHIN4YOU",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Hexagonz"
+    "url": "https://github.com/vhin4you"
   },
-  "homepage": "https://github.com/Hexagonz"
+  "homepage": "https://github.com/vhin4you"
 }
