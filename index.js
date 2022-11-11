@@ -63,9 +63,9 @@ let _scommand = JSON.parse(fs.readFileSync('./database/scommand.json'))
 
 banChats = true
 offline = false
-ownerNumber = ["@6285878313791"]
+ownerNumber = ["@6289513155643"]
 targetpc = '60139571124'
-owner = '6285878313791'
+owner = '6289513155643'
 fake = 'ʜᴇʟʟᴏ\nɪ ᴀᴍ ᴢᴀᴋʙᴏᴛᴢ'
 numbernye = '0'
 waktu = '-'
